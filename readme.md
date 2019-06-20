@@ -1,4 +1,4 @@
-# _{Leap Year}_
+# _{Pig Latin}_
 
 #### _{This application will verify a leap year with user input.}, {June 17, 2019}_
 

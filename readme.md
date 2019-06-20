@@ -6,7 +6,7 @@
 
 ## Description
 
-_{The user will enter a year and the system will tell the user whether the year is a leap year or is not a leap year.}_
+_{The user will get a pig latin version of their entry..}_
 
 ## Setup/Installation Requirements
 
@@ -18,11 +18,11 @@ _{No, this is as-is. }_
 
 ## Known Bugs
 
-_{Specify version of JQuery to be most up to date or button will not display. }_
+_{Specify version of JQuery to be most up to date or button will not display.}_
 
 ## Support and contact details
 
-_{Don't call me! }_
+_{If a word begins with a vowel, add "way to the end."}_
 
 ## Technologies Used
 
